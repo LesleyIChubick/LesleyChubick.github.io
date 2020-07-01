@@ -25,13 +25,31 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+ 
+<h3>
+  Lesley Chubick
+</h3>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <P>
+    Lesley Chubick was born on May 8th, 1968 at Independence Sanitarium. Yes, it sounds a lot like an insane asylum. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LesleyIChubick/LesleyChubick.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  </P>
 
-### Support or Contact
+    It's true Lesley has achieved a Bachelor's in Public Accounting and Master's in Finance. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</p>
+<body>
+  
+    <iframe width="800" height="590" src="https://i.pinimg.com/originals/51/7b/71/517b71249c28168fde391a2034a9579a.jpg"></iframe> 
+
+</body>
+
+
+</html>
